@@ -22,7 +22,7 @@
           ],
           "start": "Feb 22 , 2025",
           "end": " Feb 27 , 2025",
-          "completed":done,
+          "completed":"done",
           "priority": "High "
         },
         {
@@ -38,7 +38,7 @@
           ],
              "start": "Feb 25 , 2025",
           "end": " Feb 28 , 2025",
-          "completed": todo,
+          "completed": "todo",
           "priority": "Medium"
         },
         {
@@ -53,7 +53,7 @@
 ],
              "start": "Feb 5, 2025",
           "end": " Feb 8 , 2025",
-          "completed": done,
+          "completed": "done",
           "priority": "Medium"
         },
         {
@@ -68,7 +68,7 @@
           ],
          "start": "Feb 5, 2025",
           "end": " Feb 8 , 2025",
-          "completed": todo,
+          "completed": "todo",
           "priority": "High"
         },
         {
@@ -82,7 +82,7 @@
 ],
          "start": "Feb 22 , 2025",
           "end": " Feb 27 , 2025",
-          "completed": progress,
+          "completed": "progress",
           "priority": "Low"
         },
         {
@@ -98,7 +98,7 @@
           ],
          "start": "Feb 6 , 2025",
           "end": " Feb 7 , 2025",
-          "completed": todo,
+          "completed": "todo",
           "priority": "High"
         },
         {
@@ -115,7 +115,7 @@
           ],
           "start": "Feb 5 , 2025",
           "end": " Feb 18 , 2025",
-          "completed": done,
+          "completed": "done",
           "priority": "Low"
         }
       ]
@@ -141,7 +141,7 @@
           ],
          "start": "Feb 5 , 2025",
           "end": " Feb 18 , 2025",
-          "completed":progress,
+          "completed":"progress",
           "priority": "Medium"
         },
         {
@@ -158,7 +158,7 @@
           "start": "Feb 2 , 2025",
           "end": " Feb 8 , 2025",
 
-          "completed": todo,
+          "completed": "todo",
           "priority": "Medium"
         },
         {
@@ -173,7 +173,7 @@
           ],
           "start": "Feb 2 , 2025",
           "end": " Feb 8 , 2025",
-          "completed": progress,
+          "completed": "progress",
           "priority": "Medium"
         },
         {
@@ -189,7 +189,7 @@
           ],
             "start": "Feb  , 2025",
           "end": " Feb 7, 2025",
-          "completed": todo,
+          "completed": "todo",
           "priority": "Medium"
         },
         {
@@ -205,7 +205,7 @@
           ],
              "start": "Feb 25 , 2025",
           "end": " Feb 28 , 2025",
-          "completed": todo,
+          "completed": "todo",
           "priority": "Low"
         },
         {
@@ -221,7 +221,7 @@
           ],
             "start": "Feb 25 , 2025",
           "end": " Feb 28 , 2025",
-          "completed":done,
+          "completed":"done",
           "priority": "Low"
         },
         {
@@ -237,7 +237,7 @@
           ],
           "start": "Feb 25 , 2025",
           "end": " Feb 28 , 2025",
-          "completed": progress,
+          "completed": "progress",
           "priority": "Low"
         }
       ]

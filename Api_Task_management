@@ -7,7 +7,7 @@
       "role": "user",
       "email": "john.doe@example.com",
       "password": "password123",
-      "todos": [
+      "todos":[
         {
           "id": 101,
           "title": "Complete project proposal",
